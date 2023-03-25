@@ -8,17 +8,17 @@
     />
 
     <section>
-      <h2>A História do Leonard</h2>
+      <h2>A História de<em> Leonard</em></h2>
       <p>
         É incrível tudo isso.
         <a href="#" target="_blank" rel="noopener noreferrer">
-          <strong>minha vida</strong>
+          <strong>Minha vida</strong>
         </a>
-        Tem sido muito legal e esse aprendizado de Vue.js. Gostando muito.
+        Tem sido uma eventual constante desde quando eu tinha 12 anos.
       </p>
       <p>
         Bora pro jogo que tem ainda o segundo tempo inteiro pra gente ganhar. Saí de uma familia terrivel, onde não 
-        tive estrutura nenhuma, Pais cachaceiros, colocava eu e meus irmãos, para pedir esmolas e trabalhar, enquanto eles ficavam 
+        tive estrutura nenhuma. Pais cachaceiros, colocava eu e meus irmãos, para pedir esmolas e trabalhar, enquanto eles ficavam 
         em casa bebendo cachaça.
       </p>
       <ul>
@@ -34,16 +34,16 @@
         </li>
       </ul>
       <p>
-        Obrigado mesmo, Kennedy! Se eu posso ter as coisas q não tive antes, é graças a vc que me proporcionou isso.
+        Obrigado mesmo, <em>Kennedy</em>! Se eu posso ter as coisas q não tive antes, é graças a vc que me fez conhecer isso que chamamos de tecnologia.
         <a href="#" target="_blank" rel="noopener noreferrer"
           >Esse é o fim do meu discurso</a
         >
         . Vou adicionar um link aqui, só pra exemplo desse site, pois, são componentes e preciso testar tudo.
-        <a href="#" target="_blank" rel="noopener noreferrer">docs</a>
+        <a href="#" target="_blank" rel="noopener noreferrer">Teste Link</a>
         .
       </p>
       <div class="tip-wrapper">
-        <span class="tip">Tip</span>
+        <span class="tip">Teste Link</span>
         Bora pra cima q tamo ganhando o jogo.
         <svg width="10" height="10" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
           <g fill="none" fill-rule="evenodd">
@@ -77,13 +77,13 @@ export default {
 
   methods: {
     onLogin() {
-      this.user = { name: 'Jane Doe' };
+      this.user = { name: 'Kennedy T.' };
     },
     onLogout() {
       this.user = null;
     },
     onCreateAccount() {
-      this.user = { name: 'Jane Doe' };
+      this.user = { name: 'Kennedy T.' };
     },
   },
 };
