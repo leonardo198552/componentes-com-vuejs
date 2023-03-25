@@ -8,41 +8,43 @@
     />
 
     <section>
-      <h2>Pages in Storybook</h2>
+      <h2>A História do Leonard</h2>
       <p>
-        We recommend building UIs with a
-        <a href="https://componentdriven.org" target="_blank" rel="noopener noreferrer">
-          <strong>component-driven</strong>
+        É incrível tudo isso.
+        <a href="#" target="_blank" rel="noopener noreferrer">
+          <strong>minha vida</strong>
         </a>
-        process starting with atomic components and ending with pages.
+        Tem sido muito legal e esse aprendizado de Vue.js. Gostando muito.
       </p>
       <p>
-        Render pages with mock data. This makes it easy to build and review page states without
-        needing to navigate to them in your app. Here are some handy patterns for managing page data
-        in Storybook:
+        Bora pro jogo que tem ainda o segundo tempo inteiro pra gente ganhar. Saí de uma familia terrivel, onde não 
+        tive estrutura nenhuma, Pais cachaceiros, colocava eu e meus irmãos, para pedir esmolas e trabalhar, enquanto eles ficavam 
+        em casa bebendo cachaça.
       </p>
       <ul>
         <li>
-          Use a higher-level connected component. Storybook helps you compose such data from the
-          "args" of child component stories
+          Toda vitória é incrível quando conseguimos vencer e, ser um exemplo para nossos filhos, comigo não é diferente.
+          Agradeço muito a Deus por todo amadurecimento que ele me proporcionou todo esses anos. Deus me abençoou e me deu
+          uma nova vida. Agradeço a ele todos os dias por isso.
         </li>
         <li>
-          Assemble data in the page component from your services. You can mock these services out
-          using Storybook.
+          Em especial, queria agradecer ao <em>Kennedy T.</em> pois, foi graças a ele que eu pude conhecer esse mundo tão incrível
+          que é a tecnologia. Sempre foi mais q um irmão pra mim. Sei q fui imaturo em coisas passadas com vc e sua familia, mas deixo aqui minhas
+          sinceras desculpas e, digo q nunca foi minha intenção magoar ninguém.
         </li>
       </ul>
       <p>
-        Get a guided tutorial on component-driven development at
-        <a href="https://storybook.js.org/tutorials/" target="_blank" rel="noopener noreferrer"
-          >Storybook tutorials</a
+        Obrigado mesmo, Kennedy! Se eu posso ter as coisas q não tive antes, é graças a vc que me proporcionou isso.
+        <a href="#" target="_blank" rel="noopener noreferrer"
+          >Esse é o fim do meu discurso</a
         >
-        . Read more in the
-        <a href="https://storybook.js.org/docs" target="_blank" rel="noopener noreferrer">docs</a>
+        . Vou adicionar um link aqui, só pra exemplo desse site, pois, são componentes e preciso testar tudo.
+        <a href="#" target="_blank" rel="noopener noreferrer">docs</a>
         .
       </p>
       <div class="tip-wrapper">
         <span class="tip">Tip</span>
-        Adjust the width of the canvas with the
+        Bora pra cima q tamo ganhando o jogo.
         <svg width="10" height="10" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
           <g fill="none" fill-rule="evenodd">
             <path
@@ -52,7 +54,7 @@
             />
           </g>
         </svg>
-        Viewports addon in the toolbar
+        Obrigado, Deus!
       </div>
     </section>
   </article>
