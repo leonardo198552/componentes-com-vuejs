@@ -4,7 +4,7 @@ export default {
   title: 'Example/Header',
   component: MyHeader,
   parameters: {
-    // More on Story layout: https://storybook.js.org/docs/vue/configure/story-layout
+   
     layout: 'fullscreen',
   },
 };
