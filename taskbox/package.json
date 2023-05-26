@@ -8,6 +8,7 @@
     "test:unit": "vue-cli-service test:unit",
     "lint": "vue-cli-service lint",
     "storybook": "start-storybook -p 6006",
+    "test:scrapi": "scrapi",
     "build-storybook": "build-storybook"
   },
   "dependencies": {
@@ -40,6 +41,7 @@
     "eslint-plugin-vue": "^8.0.3",
     "jest": "^27.0.5",
     "prettier": "^2.4.1",
+    "scrapi": "^0.1.0",
     "vue-loader": "^15.10.1",
     "vue-template-compiler": "^2.6.14"
   }
